@@ -30,13 +30,17 @@ Write a program which will find all such numbers which are divisible by 7 but ar
 The numbers obtained should be printed in a comma-separated sequence on a single line.
 
 Hints: 
-Consider use range(#begin, #end) method
+Consider using decimal
 
 Solution
 ```
-for (decimal i = 2000.0M; i<= 3200.0M; i++ ){
-    if (i%7==0 && i%5!=0){
-        Console.Write("," + i);
+class Program{
+    static void Main(){
+        for (int i = 2000; i<= 3200; i++ ){
+            if (i%7==0 && i%5!=0){
+                Console.Write("," + i);
+            }
+        }
     }
 }
 ```
@@ -57,16 +61,19 @@ In case of input data being supplied to the question, it should be assumed to be
 
 Solution
 ```
-static int Factorial(int x){
-    if (x == 0){
-        return 1;
+class Program
+{
+    static int Fact(int x){
+        if (x == 0){
+            return 1;
+        }
+        return x * Factorial(x - 1);
     }
-    return x * Factorial(x - 1);
-}
-static void Main(string[] args){
-Console.WriteLine("Type a number: ");
-int x = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(Factorial(x));
+    static void Main(string[] args){
+    Console.WriteLine("Type a number: ");
+    int x = Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine(Fact(x));
+    }
 }
 ```
 
@@ -82,7 +89,22 @@ Then, the output should be:
 
 Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
-Consider use dict()
+
+Solution
+```
+class Program
+{
+    static void Main()
+    {
+        int num1, num2, num3;
+        num1 = 8;
+        for (num2 = 1; num2 <= num1; num2++){
+            Console.WriteLine(num2 + (num2 - 1) * num2);
+            }
+            //Console.WriteLine(num2, num3);
+    }
+}
+```
 
 
 ### Question 4
@@ -98,8 +120,15 @@ Then, the output should be:
 
 Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
-tuple() method can convert list to tuple
 
+Solution
+```
+class Program{
+    static void Main(){
+        
+    }
+}
+```
 
 
 ### Question 5

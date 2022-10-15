@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/tuatara/.dotnet/store/|arch|/|tfm|",
+      "/home/tuatara/.nuget/packages"
+    ]
+  }
+}
