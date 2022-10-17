@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lv9RkMQ1ad0hhPA5jZaRtDtA+NY66yleCnk4vzdxh/NogXMx9OyZE4klZL/EKiSq6kbfi8lMRC8fOQlgFjs5ig==",
+  "dgSpecHash": "lUhrB9ZRChuekX7XrxezaQvel8Kqq4k8gclSVM3shws3i4hicPOXO+uZxYs7mHnfUob/5sv4Xtgpr9EHE4k41w==",
   "success": true,
-  "projectFilePath": "/home/tuatara/dev/general-test/c-sharp-exercises/c-sharp-exercises.csproj",
+  "projectFilePath": "/home/tuatara/personal/dev/practice/c-sharp-exercises/c-sharp-exercises.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

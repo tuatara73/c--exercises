@@ -22,7 +22,8 @@ namespace c_sharp_exercises
             int C, H;
             C = 50;
             H = 30;
-            var D = Convert.ToInt32.Console.ReadLine().Split(" ");
+            string[] F = Console.ReadLine().Split(" ");
+            int D = Convert.ToInt32(F);
             foreach(int i in D)
             {
                 Console.WriteLine((2 * C * i)/H);

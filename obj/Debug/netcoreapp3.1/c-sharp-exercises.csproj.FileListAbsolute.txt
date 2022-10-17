@@ -11,3 +11,9 @@
 /home/tuatara/dev/general-test/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.dll
 /home/tuatara/dev/general-test/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.pdb
 /home/tuatara/dev/general-test/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.genruntimeconfig.cache
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.csprojAssemblyReference.cache
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.AssemblyInfoInputs.cache
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.AssemblyInfo.cs
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.csproj.CoreCompileInputs.cache
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.dll
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.pdb

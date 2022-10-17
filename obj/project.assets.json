@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tuatara/dev/general-test/c-sharp-exercises/c-sharp-exercises.csproj",
+      "projectUniqueName": "/home/tuatara/personal/dev/practice/c-sharp-exercises/c-sharp-exercises.csproj",
       "projectName": "c-sharp-exercises",
-      "projectPath": "/home/tuatara/dev/general-test/c-sharp-exercises/c-sharp-exercises.csproj",
+      "projectPath": "/home/tuatara/personal/dev/practice/c-sharp-exercises/c-sharp-exercises.csproj",
       "packagesPath": "/home/tuatara/.nuget/packages/",
-      "outputPath": "/home/tuatara/dev/general-test/c-sharp-exercises/obj/",
+      "outputPath": "/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/tuatara/.nuget/NuGet/NuGet.Config"
