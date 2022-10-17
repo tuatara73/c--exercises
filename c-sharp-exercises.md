@@ -154,8 +154,27 @@ getString: to get a string from console input
 printString: to print the string in upper case.
 Also please include simple test function to test the class methods.
 
-Hints:
-Use __init__ method to construct some parameters
+Solution:
+```
+class Program
+{
+    static void Main(string[] args)
+    {
+        printString(z);
+    }
+    static string getString(string x)
+    {
+        var x = Console.ReadLine();
+        return x;
+    }
+    static string printString(string z)
+    {
+        getString();
+        var z = x.ToUpper();
+        return z;
+    }
+}
+```
 
 
 ### Question 6

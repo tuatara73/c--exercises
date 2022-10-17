@@ -13,19 +13,19 @@ namespace c_sharp_exercises
     {
         static void Main(string[] args)
         {
-            printString();
+            printString(z);
         }
         static string getString(string x)
         {
             var x = Console.ReadLine();
             return x;
         }
-        static string printString()
+        static string printString(string z)
         {
             getString();
             var z = x.ToUpper();
             return z;
         }
-        }
     }
 }
+
