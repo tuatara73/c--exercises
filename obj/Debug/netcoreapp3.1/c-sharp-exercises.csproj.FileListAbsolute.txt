@@ -17,3 +17,10 @@
 /home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.csproj.CoreCompileInputs.cache
 /home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.dll
 /home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.pdb
+/home/tuatara/personal/dev/practice/c-sharp-exercises/bin/Debug/netcoreapp3.1/c-sharp-exercises
+/home/tuatara/personal/dev/practice/c-sharp-exercises/bin/Debug/netcoreapp3.1/c-sharp-exercises.deps.json
+/home/tuatara/personal/dev/practice/c-sharp-exercises/bin/Debug/netcoreapp3.1/c-sharp-exercises.runtimeconfig.json
+/home/tuatara/personal/dev/practice/c-sharp-exercises/bin/Debug/netcoreapp3.1/c-sharp-exercises.runtimeconfig.dev.json
+/home/tuatara/personal/dev/practice/c-sharp-exercises/bin/Debug/netcoreapp3.1/c-sharp-exercises.dll
+/home/tuatara/personal/dev/practice/c-sharp-exercises/bin/Debug/netcoreapp3.1/c-sharp-exercises.pdb
+/home/tuatara/personal/dev/practice/c-sharp-exercises/obj/Debug/netcoreapp3.1/c-sharp-exercises.genruntimeconfig.cache
