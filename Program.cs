@@ -15,17 +15,6 @@ namespace c_sharp_exercises
         {
             printString(z);
         }
-        static string getString(string x)
-        {
-            var x = Console.ReadLine();
-            return x;
-        }
-        static string printString(string z)
-        {
-            getString();
-            var z = x.ToUpper();
-            return z;
-        }
     }
 }
 
