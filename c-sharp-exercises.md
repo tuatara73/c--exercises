@@ -125,7 +125,17 @@ Solution
 ```
 class Program{
     static void Main(){
-        
+        {
+            Console.WriteLine("Please provide 6 numbers seperated by space:");
+            var line = Console.ReadLine().Split(",");
+            var num1 = int.Parse(line[0]);
+            var num2 = int.Parse(line[1]);
+            var num3 = int.Parse(line[2]); 
+            var num4 = int.Parse(line[3]); 
+            var num5 = int.Parse(line[4]); 
+            var num6 = int.Parse(line[5]); 
+            var num7 = (num1, num2, num3, num4, num5, num6);
+            Console.WriteLine(num7);
     }
 }
 ```

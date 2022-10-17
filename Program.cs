@@ -25,9 +25,11 @@ namespace c_sharp_exercises
             var num6 = int.Parse(line[5]); 
             var num7 = (num1, num2, num3, num4, num5, num6);
             Console.WriteLine(num7);
+            Console.WriteLine("[" + num7 + "]");
             //Console.WriteLine("(" + "{0} {1}" ,num1,  num2 );
-            Tuple<string, string, string, string, string, string> list = line;
-            Console.WriteLine(list);
+            //Tuple<> tuple = line;
+            //Console.WriteLine(tuple);
+            //Console.WriteLine(list);
         }
     }
 }
