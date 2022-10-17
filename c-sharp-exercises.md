@@ -136,6 +136,10 @@ class Program{
             var num6 = int.Parse(line[5]); 
             var num7 = (num1, num2, num3, num4, num5, num6);
             Console.WriteLine(num7);
+            string _type = num7.GetType().Name;
+            Console.WriteLine(_type);
+            var tuple = Tuple.Create(num1, num2, num3, num4, num5, num6);
+            Console.WriteLine(tuple);
     }
 }
 ```
