@@ -19,7 +19,14 @@ namespace c_sharp_exercises
     {
         static void Main(string[] args)
         {
-            
+            int C, H;
+            C = 50;
+            H = 30;
+            var D = Convert.ToInt32.Console.ReadLine().Split(" ");
+            foreach(int i in D)
+            {
+                Console.WriteLine((2 * C * i)/H);
+            }
         }
     }
 }
